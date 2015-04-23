@@ -16,7 +16,7 @@ include_once("init.php");
 	<!-- Optimize for mobile devices -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	
-	<!-- jQuery & JS files -->
+	<!-- jQuery & JS files Comment -->
 	<?php include_once("tpl/common_js.php"); ?>
 	<script src="js/script.js"></script>  
 		<script>
